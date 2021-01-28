@@ -1,5 +1,5 @@
 ## 実行方法
 
 ```
-./gradlew run -Pmain="abc189.a.MainKt"
+./gradlew run -Pmain="abc189.AKt"
 ```
